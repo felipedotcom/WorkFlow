@@ -5,4 +5,4 @@
 baseado no repositório do [mstuttgart](https://github.com/mstuttgart/my-study-workflow)
 
 [DEV#TRANSLATE](https://github.com/felipedotcom/WorkFlow/projects/1) Este repositório possui issues relacionadas as traduções de 
-artigos técnicos para o projeto[DEV#TRANSLATE](https://github.com/devtranslate/devtranslate.github.io)
+artigos técnicos para o medium do projeto [DEV#TRANSLATE](https://github.com/devtranslate/devtranslate.github.io)
