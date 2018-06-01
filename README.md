@@ -7,5 +7,5 @@ baseado no repositório do [mstuttgart](https://github.com/mstuttgart/my-study-w
 [DEV#TRANSLATE](https://github.com/felipedotcom/WorkFlow/projects/1): Este projeto possui issues relacionadas as traduções de 
 artigos técnicos para o medium do projeto [DEV#TRANSLATE](https://github.com/devtranslate/devtranslate.github.io)
 
-[training-center/accessibility](https://github.com/training-center/accessibility): Este projeto possui issues relacionadas a iniciativa de tornar o conteúdo do Training Center mais acessível, transcrevendo os vídeos do canal do Youtube. [training-center/accessibility](https://github.com/training-center/accessibility/tree/master/videos) 
+[training-center/accessibility](https://github.com/felipedotcom/WorkFlow/projects/4): Este projeto possui issues relacionadas a iniciativa de tornar o conteúdo do Training Center mais acessível, transcrevendo os vídeos do canal do Youtube. [training-center/accessibility](https://github.com/training-center/accessibility/tree/master/videos) 
 
