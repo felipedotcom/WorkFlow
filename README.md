@@ -1,5 +1,5 @@
 
-### :bookmark: :octocat: Este repositório possui projetos e issues relacionados ao meu fluxo de estudo, projetos pessoais e open source, para fins de organização. 
+### :scroll: :octocat: Este repositório possui projetos e issues relacionados ao meu fluxo de estudo, projetos pessoais e open source, para fins de organização. 
 
 [Fluxo de estudos 2018](https://github.com/felipedotcom/WorkFlow/projects/3) Este projeto possui issues relacionadas as tarefas do meu fluxo de estudo para fins de organização.
 
